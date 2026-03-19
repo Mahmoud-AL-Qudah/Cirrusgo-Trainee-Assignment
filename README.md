@@ -22,7 +22,8 @@ Bastion Host for secure access
 CloudWatch for monitoring
 
 🌐 Architecture Diagram
-<img width="526" height="461" alt="image" src="https://github.com/user-attachments/assets/10dbc86e-b52c-49e4-a582-5c931fa9a5d5" />
+<img width="431" height="558" alt="image" src="https://github.com/user-attachments/assets/802902f5-6838-44fc-b741-a3e6aaba37c6" />
+
 
 
 🚀 Features
