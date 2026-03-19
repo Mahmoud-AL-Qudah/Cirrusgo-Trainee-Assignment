@@ -144,6 +144,4 @@ Connecting WordPress to RDS securely
 
 Use Terraform for Infrastructure as Code
 
-Add CI/CD pipeline (GitHub Actions)
-
 Use CloudFront for caching and fast delivery + S3 for static content
